@@ -1,0 +1,100 @@
+Accenture
+Acer
+Adobe
+Advanced Micro Devices (AMD)
+Advantest
+Akamai Technologies
+Alphabet
+Amazon
+Amdocs
+Analog Devices
+Apple
+Applied Materials
+ARRIS International
+ASE Group
+ASM Pacific Technology
+ASUS
+Atos
+Autodesk
+CA Technologies
+Canon
+Capgemini
+Celestica
+CGI
+Cisco
+Cognizant
+CommScope
+Computacenter
+Computershare
+dormakaba 
+DXC Technology
+eBay Inc.
+Ericsson
+Facebook
+FUJIFILM
+Fujikura Ltd.
+Fujitsu Ltd.
+Gemalto
+HCL Technologies Ltd.
+Hewlett Packard Enterprise
+HP
+IBM
+Infineon Technologies
+Infosys
+Intel
+Intuit
+Lam Research
+Leidos
+Lenovo
+LG Electronics
+LITE-ON Technology
+ManTech International Corporation
+Mastercard
+Micron Technology
+Microsoft
+Motorola Solutions
+Nanya Technology
+National Instruments 
+NCR Corporation
+NEC
+Nokia
+Nvidia
+NXP Semiconductors
+OKI Electric Industry Co., Ltd.
+ON Semiconductor
+Oracle
+PEGATRON Corporation
+Powertech Technology Inc.
+Qisda Corporation
+Qualcomm
+Quanta Computer
+Renesas Electronics Corporation
+ROHM
+Salesforce
+Samsung Electronics
+SAP
+Seiko Epson Corporation
+Sharp Corporation
+Siliconware Precision Industries Ltd. (SPIL)
+SK Hynix Inc.
+SONY
+Sopra Steria
+STMicroelectronics
+Symantec Corporation
+Taiwan Semiconductor Manufacturing Co., Ltd. (TSMC)
+Tata Consultancy Services
+Tech Mahindra
+Tencent
+Teradata
+Texas Instruments
+Tieto
+Tokyo Electron
+Total System Services (TSYS)
+Unisys
+United Microelectronics Corporation
+VMware
+Wipro
+Wistron Corporation
+Workday
+Xerox Corporation
+ZTE Corporation
